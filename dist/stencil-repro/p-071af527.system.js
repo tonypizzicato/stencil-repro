@@ -1,0 +1,1 @@
+System.register(["./p-b51293c0.system.js"],(function(){"use strict";var t,e;return{setters:[function(n){t=n.p;e=n.b}],execute:function(){t().then((function(t){return e([["p-dd21e246.system",[[1,"app-root",{name:[1]}]]],["p-b7b097bb.system",[[1,"my-component",{title:[1]}]]]],t)}))}}}));

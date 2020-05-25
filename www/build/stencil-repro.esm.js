@@ -1,0 +1,1 @@
+import{p,b as o}from"./p-7efc84c5.js";p().then(p=>o([["p-f6b6fea2",[[1,"app-root",{name:[1]}]]],["p-64d78563",[[1,"my-component",{title:[1]}]]]],p));
